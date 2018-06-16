@@ -34,7 +34,7 @@ console.log(currentTime);
   var database = firebase.database();
 
   var uiConfig = {
-    signInSuccessUrl: 'https://georgejacobt.github.io/trainscheduler_automation/',
+    signInSuccessUrl: 'https://www.google.com',
     signInOptions: [
       // Leave the lines as is for the providers you want to offer your users.
       firebase.auth.GoogleAuthProvider.PROVIDER_ID,
